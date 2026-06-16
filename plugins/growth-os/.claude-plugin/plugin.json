@@ -1,0 +1,11 @@
+{
+  "name": "growth-os",
+  "description": "The Growth Operating System: original, data-first Claude agent skills that run SEO, content, AI search visibility, and CRO off real data from Ahrefs, GSC, GA4, and Clarity, with every decision tied to leads and revenue.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Avik Bal",
+    "url": "https://github.com/avikbal-dm"
+  },
+  "homepage": "https://github.com/avikbal-dm/claude-seo-skills",
+  "license": "MIT"
+}
