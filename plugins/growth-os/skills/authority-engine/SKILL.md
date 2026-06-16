@@ -81,4 +81,4 @@ Links are slow. Earned coverage takes weeks to months to land and longer to comp
 
 Avik Bal is a B2B digital marketing practitioner specializing in web architecture, SEO, content strategy, and marketing analytics. He has helped enterprise software, fintech, and technology companies drive growth through scalable digital marketing programs. Avik is the author of *CITED: The Growth Operating System for AI Search*.
 
-Part of the Growth Operating System. https://github.com/avikbal-dm/growth-operating-system
+Part of the Growth Operating System. https://github.com/avikbal-dm/claude-seo-skills

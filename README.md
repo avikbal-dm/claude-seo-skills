@@ -51,20 +51,20 @@ Every module flags its quick wins and states realistic timeframes as ranges. Fas
 ### Claude Code (plugin marketplace)
 
 ```bash
-/plugin marketplace add avikbal-dm/growth-operating-system
+/plugin marketplace add avikbal-dm/claude-seo-skills
 /plugin install growth-os@avikbal-growth-os
 ```
 
 ### Claude Code or Desktop (manual)
 
 ```bash
-git clone https://github.com/avikbal-dm/growth-operating-system.git
-cp -r growth-operating-system/plugins/growth-os/skills/* ~/.claude/skills/
+git clone https://github.com/avikbal-dm/claude-seo-skills.git
+cp -r claude-seo-skills/plugins/growth-os/skills/* ~/.claude/skills/
 ```
 
 ### Claude.ai
 
-Zip the folder of the skill you want from `plugins/growth-os/skills/`, then upload it under **Settings > Capabilities > Skills**.
+Download the `.skill` file you want from the [`bundles/`](bundles) folder, then upload it under **Settings > Capabilities > Skills**. Each file is one ready-to-install skill, no zipping needed.
 
 ## A note on the data
 
