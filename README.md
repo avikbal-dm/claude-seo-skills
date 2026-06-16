@@ -1,4 +1,4 @@
-# Growth Operating System
+# Growth Operating System for SEO, AEO, GEO, SXO
 
 Original Claude agent skills that run SEO and growth off real data and actual leads. Where most SEO tooling optimizes for rankings, this suite optimizes for pipeline. Every skill pulls from Ahrefs, Google Search Console, GA4, and Microsoft Clarity, reads Core Web Vitals from field data, and weighs decisions against the leads they produce, not the vanity metrics they move.
 
