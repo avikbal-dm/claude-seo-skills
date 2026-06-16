@@ -1,0 +1,107 @@
+# How to Use These Skills
+
+*A note from the creator.*
+
+I built the Growth Operating System to do one thing: turn search work into pipeline, not just rankings.
+
+## Connect Your Data First
+
+These skills read. They do not guess.
+
+Give Claude access to:
+
+- Ahrefs
+- Google Search Console
+- Google Analytics 4 (GA4)
+- Microsoft Clarity
+- CRM and lead data
+
+Without real numbers, you get generic advice.
+
+With connected data, you get decisions.
+
+## Start at the Top, Not in the Middle
+
+Run one of these first:
+
+- `cited-framework`
+- `growth-audit`
+
+These skills review the full picture, identify where leads are leaking, and direct you to the right modules.
+
+Jumping straight into tactical work often means fixing the wrong problem faster.
+
+## Let the Skills Hand Off to Each Other
+
+The system is designed to work together.
+
+A typical workflow might look like this:
+
+```text
+Growth Audit
+    ↓
+Technical Fixes
+    ↓
+Content Gaps
+    ↓
+Conversion Optimization
+    ↓
+Pipeline Growth
+```
+
+Follow the chain rather than treating each skill as a standalone tool.
+
+## Judge Everything by Leads
+
+Rankings are not the goal.
+
+A page that ranks but generates no qualified opportunities is still underperforming.
+
+When a skill presents multiple options, prioritize the recommendation most likely to influence qualified pipeline.
+
+## Take the Fast Wins First
+
+Some improvements create impact quickly:
+
+- Technical fixes
+- Schema implementation
+- Citation restructuring
+- Internal linking improvements
+
+These can often show results within days or weeks.
+
+Other initiatives take longer:
+
+- Authority building
+- New content programs
+- Brand visibility expansion
+
+Capture quick wins while long-term investments compound.
+
+## Bring Your Judgment
+
+These skills encode my methodology.
+
+They are not a substitute for business context or experience.
+
+Review every recommendation critically and make the final decision yourself.
+
+Treat all forecasts and projections as directional estimates, never guarantees.
+
+## The Philosophy
+
+Find what the data says.
+
+Fix what touches a lead first.
+
+Let the system compound over time.
+
+---
+
+# About the Author
+
+**Avik Bal** is a B2B digital marketing practitioner specializing in web architecture, SEO, content strategy, and marketing analytics.
+
+He has helped enterprise software, fintech, and technology companies drive growth through scalable digital marketing programs.
+
+Avik is the author of **CITED: The Growth Operating System for AI Search**.
